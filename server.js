@@ -11,7 +11,7 @@ class Game{
         this.name = this.name;
         this.year = this.year;
         this.url = this.url;
-    }
+    } 
 }
 app.get('/game',(req.resp) = {
 //     readFile('SteamGames.json', (err,data) => {
